@@ -96,7 +96,10 @@ NBA Performance & Draft Dataset (Kaggle): https://www.kaggle.com/datasets/sumitr
 
 ---
 
-## Files
+## Python Code
+- [Script](https://github.com/Logan142414/Bronny-James-Jr.-Data-Analysis/blob/main/Bronny_James_Jr_Analysis_.ipynb)
 
-* **Bronny_James_Jr_Analysis.ipynb** — full code, models, and visualizations  
-* **all_seasons.csv** — cleaned dataset used for modeling
+---
+
+## Medium Article
+- [Was Bronny James a Wasted Pick? What 30+ Years of Draft History Reveals](https://medium.com/@logan.laszewski14/the-debate-around-bronny-james-jr-fair-criticism-or-unreasonable-expectations-34e5ef205d14)
